@@ -1,4 +1,4 @@
-package org.Alex;
+package org.PrinterTelegramBot;
 
 public class Main {
     public static void main(String[] args) {
